@@ -1,0 +1,46 @@
+.tb {
+    display: block;
+    width: 500px; 
+    box-shadow: 0 0 15px px black;
+    dfs
+}
+
+.tb1 {
+    width: 500px;
+    height: 200px;
+}
+
+#submit {
+    background-color: #4aaaa5;
+    width: 100px;
+    height: 30px;
+    position: relative;
+    top: 10px;
+}
+
+img {
+    width: 180px;
+    z-index: 1;
+    padding: 10px;
+}
+img:hover {
+    box-shadow: 0 0 10px 5px gray;
+  
+}
+.box {
+    float: left;
+}
+
+/* I still have to figure out how to put texts on my picutres and align it perfectly. I think it has to do with positioning and the z-index.*/
+.banner {
+    width: 170px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    padding: 5px;
+    text-align: center;
+    z-index: 2;
+    position: relative;
+    bottom: 15%;
+    
+    
+}
